@@ -7,6 +7,6 @@ html {
     width: 300PX;
   }
   
-  span {
+  h1, span, h3 {
     cursor: pointer;
   }
